@@ -1,0 +1,9 @@
+fastapi
+starlette
+uvicorn
+python-dotenv
+supabase
+requests
+pydantic
+typing_extensions
+fastmcp

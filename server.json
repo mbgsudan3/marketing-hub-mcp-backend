@@ -1,0 +1,12 @@
+{
+  "name": "marketing-hub-mcp",
+  "version": "1.0.0",
+  "commands": {
+    "ping": {
+      "type": "static",
+      "output": {
+        "message": "pong"
+      }
+    }
+  }
+}
